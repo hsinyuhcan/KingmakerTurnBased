@@ -1,7 +1,7 @@
 ﻿{
   "$id": "1",
   "Language": "Deutsch",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Contributors": "michalnh",
   "HomePage": "1887er@arcor.de",
   "Strings": [
@@ -187,7 +187,7 @@
     },
     {
       "Key": "Menu_Opt_DoNotMarkInvisibleUnit",
-      "Value": "Unsichtbare einheiten NICHT markieren"
+      "Value": "Unsichtbare Einheiten NICHT markieren"
     },
     {
       "Key": "Menu_Cmt_DoNotMarkInvisibleUnit",
@@ -279,7 +279,7 @@
     },
     {
       "Key": "Menu_Opt_ShowAutoCastAbilityRange",
-      "Value": "Zeige Fertigkeitenentfernung anstelle von Agriffsreichweite wenn Auto-Zauberwirken genutzt wird"
+      "Value": "Zeige Fertigkeitenentfernung anstelle von Angriffsreichweite wenn Auto-Zauberwirken genutzt wird"
     },
     {
       "Key": "Menu_Opt_CheckForObstaclesOnTargeting",
@@ -591,7 +591,7 @@
     },
     {
       "Key": "Hotkey_Button_EndTurn",
-      "Value": "Knopf: Beende Runde"
+      "Value": "Knopf: Rundenende"
     },
     {
       "Key": "Hotkey_Button_Delay",
@@ -644,6 +644,10 @@
     {
       "Key": "UI_Log_SurpriseRoundStarted",
       "Value": "Überraschungsrunde gestartet."
+    },
+    {
+      "Key": "Menu_Opt_FixOnePlusDiv2ToDiv2",
+      "Value": "Behebe den Schadensbonus von einigen Fertigkeiten (Stufe / 2 + 1 => Stufe / 2) (Explosive Rune, Mondfeuer)"
     }
   ]
 }
