@@ -51,7 +51,7 @@
     },
     {
       "Key": "Menu_Cmt_FlankingCountAllNearbyOpponents",
-      "Value": "(Ungeachtet des aktuellen Einheitenbefehls)"
+      "Value": " (Ungeachtet des aktuellen Einheitenbefehls)"
     },
     {
       "Key": "Menu_Opt_RerollPerceptionDiceAgainstStealthOncePerRound",
@@ -59,7 +59,7 @@
     },
     {
       "Key": "Menu_Cmt_RerollPerceptionDiceAgainstStealthOncePerRound",
-      "Value": "(Anstelle einmal pro Kampf)"
+      "Value": " (Anstelle einmal pro Kampf)"
     },
     {
       "Key": "Menu_Sub_Pathfinding",
