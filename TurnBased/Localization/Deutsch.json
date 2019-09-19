@@ -1,7 +1,7 @@
 ﻿{
   "$id": "1",
   "Language": "Deutsch",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Contributors": "michalnh",
   "HomePage": "1887er@arcor.de",
   "Strings": [
@@ -648,6 +648,22 @@
     {
       "Key": "Menu_Opt_FixOnePlusDiv2ToDiv2",
       "Value": "Behebe den Schadensbonus von einigen Fertigkeiten (Stufe / 2 + 1 => Stufe / 2) (Explosive Rune, Mondfeuer)"
+    },
+    {
+      "Key": "Menu_Opt_FixDweomerLeap",
+      "Value": "Behebe, dass Zauberkatzensprung durch Verbündete ausgelöst werden kann ohne eine Aktion zu kosten (sollte eine Augenblickliche Aktione kosten)"
+    },
+    {
+      "Key": "Menu_Opt_FixAcrobaticsMobility",
+      "Value": "Behebe, dass Beweglichkeit genutzt werden kann um Gelegenheitsangriffe zu verhindern, auch wenn dies durch andere Gründe als Bewegung verursacht wurde"
+    },
+    {
+      "Key": "Menu_Opt_FixNeutralUnitCanAttackAlly",
+      "Value": "Behebe, dass bestimmte neutrale Einheiten Ihre Verbündeten attackieren können (z.B. Technikliga)"
+    },
+    {
+      "Key": "Menu_Opt_FixInspectingTriggerAuraEffect",
+      "Value": "Behebe, dass bestimmte Auraeffekte mehrfach ausgelöst werden können, wenn Du den Eigentümer untersuchtst (z.B. Aura des Tentakulus)"
     }
   ]
 }
