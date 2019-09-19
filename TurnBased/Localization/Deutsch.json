@@ -503,7 +503,7 @@
     },
     {
       "Key": "Menu_Opt_FixCanMakeAttackOfOpportunityToUnmovedTarget",
-      "Value": "Behebe Du kannst einen Gelegenheitsangriff gegen eine nicht bewegenden Einehit ausführen welche die Bedrohungsreichweite verlässt (Wenn von einer Reichweiten Waffen gewechselt wurde)"
+      "Value": "Behebe Du kannst einen Gelegenheitsangriff gegen eine nicht bewegenden Einheit ausführen welche die Bedrohungsreichweite verlässt (Wenn von einer Reichweiten Waffen gewechselt wurde)"
     },
     {
       "Key": "Menu_Opt_FixAbilityCircleRadius",
@@ -655,7 +655,7 @@
     },
     {
       "Key": "Menu_Opt_FixAcrobaticsMobility",
-      "Value": "Behebe, dass Beweglichkeit genutzt werden kann um Gelegenheitsangriffe zu verhindern, auch wenn dies durch andere Gründe als Bewegung verursacht wurde"
+      "Value": "Behebe, dass Akrobatik (Beweglichkeit) genutzt werden kann um Gelegenheitsangriffe zu verhindern, auch wenn dies durch andere Gründe als Bewegung verursacht wurde"
     },
     {
       "Key": "Menu_Opt_FixNeutralUnitCanAttackAlly",
